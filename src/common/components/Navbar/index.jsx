@@ -275,9 +275,9 @@ function NavbarWithSubNavigation({ translations, pageProps }) {
       width={105}
       height={35}
       style={{
-        maxHeight: '35px',
+        maxHeight: '40px',
         minHeight: '35px',
-        objectFit: 'cover',
+        objectFit: 'contain',
       }}
       alt="4Geeks logo"
     />,
